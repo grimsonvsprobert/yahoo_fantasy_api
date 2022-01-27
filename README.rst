@@ -1,5 +1,5 @@
 =================
-yahoo_fantasy_api
+yahoo_fantasy_api - Cloned from spilchen
 =================
 
 Python bindings to the Yahoo! Fantasy API
